@@ -7,8 +7,7 @@ The main goal of this project was to set up and get familiar with GitHub. Since
 this is where I will be posting all the content for my CISC 3130 class.
 
 ## Screenshots
-! [HelloWorld Image]
-(/img/HelloWorld.png)
+<img width="989" alt="HelloWorld" src="https://user-images.githubusercontent.com/70732632/92200400-c09fac80-ee47-11ea-95dd-5d920eade9b4.png">
 
 ## Technologies
 * Java SE 14
