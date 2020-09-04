@@ -8,7 +8,7 @@ this is where I will be posting all the content for my CISC 3130 class.
 
 ## Screenshots
 ! [HelloWorld Image]
-(/Users/emi/Desktop/Tools/Git/MyFolder/img/HelloWorld.png)
+(/img/HelloWorld.png)
 
 ## Technologies
 * Java SE 14
