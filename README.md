@@ -15,5 +15,5 @@ this is where I will be posting all the content for my CISC 3130 class.
 ## Status
 Project is: Finished
 
-## Inspiration
-Project inspired and provided by [@flynerdpl] (https://www.flynerd.pl/)
+## Inspiration & Credits
+README template inspired and provided by [@flynerdpl] (https://www.flynerd.pl/)
