@@ -3,7 +3,7 @@
 - Lab2.java
 - Lab2Demo.java
 - Regional_Global_Daily_Latest.csv
-- Lab2-TopStreamedArtists.csv
+- Lab2-TopStreamedArtists.txt
 <p>all written in the Java language.</p>
 
 ## OBJECTIVE
