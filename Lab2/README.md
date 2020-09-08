@@ -4,7 +4,7 @@
 - Lab2Demo.java
 - Regional_Global_Daily_Latest.csv
 - Lab2-TopStreamedArtists.csv
-all written in the Java language.
+<p>all written in the Java language.</p>
 
 ## OBJECTIVE
 The main goal of this project was to put together a project involving spotify's 
