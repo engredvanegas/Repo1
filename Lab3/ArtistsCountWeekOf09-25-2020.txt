@@ -1,0 +1,135 @@
+Artist,	# Of Appearances in Top Streamed List
+BØRNS,	1
+Surfaces,	1
+Miley Cyrus,	1
+Ofenbach,	1
+Rauw Alejandro,	2
+ROSALÍA,	1
+Jason Derulo,	1
+DJ Khaled,	2
+Machine Gun Kelly,	4
+Billie Eilish,	5
+Black Eyed Peas,	1
+BANNERS,	1
+Manuel Turizo,	1
+Fleetwood Mac,	1
+Surf Mesa,	1
+Calvin Harris,	1
+Cardi B,	1
+Shawn Mendes,	1
+Dean Lewis,	1
+Don Toliver & NAV),	1
+Bad Bunny,	2
+The Chainsmokers,	1
+Travis Scott,	4
+salem ilese,	1
+Lele Pons,	1
+Lady Gaga,	2
+Trueno,	1
+Nio Garcia,	1
+Tory Lanez & Lil Wayne) - Remix,	1
+BTS,	2
+Roddy Ricch,	1
+Ed Sheeran,	4
+MEDUZA,	1
+Post Malone,	3
+Camilo,	3
+Lewis Capaldi,	2
+Joji,	11
+Chris Brown,	2
+000 Hours (with Justin Bieber),	1
+Daddy Yankee,	1
+Jawsh 685,	1
+Doja Cat,	1
+24kGoldn,	1
+ZAYN,	1
+Juice WRLD,	7
+BLACKPINK,	2
+Polo G,	2
+Passenger,	1
+blackbear,	1
+Jul,	1
+Tame Impala,	1
+Maroon 5,	1
+THE SCOTTS,	1
+DaBaby,	1
+Imagine Dragons,	1
+Ozuna,	4
+Sech,	2
+Halsey,	1
+Don Toliver,	1
+Tate McRae,	1
+Big Sean,	1
+Aya Nakamura,	1
+Marshmello,	3
+John Legend,	1
+Maluma,	3
+Clean Bandit,	1
+Joel Corry,	1
+Justin Bieber,	2
+KAROL G,	1
+Conan Gray,	1
+BENEE,	1
+Wallows,	1
+Dalex,	1
+Tainy,	1
+Bea Miller,	1
+Money Man,	1
+Ashnikko,	1
+Anitta,	1
+JP Saxe,	1
+Tones And I,	1
+DiOs Mío!,	1
+Kina,	1
+Osquel,	1
+Kane Brown,	1
+KHEA,	1
+Powfu,	1
+Harry Styles,	3
+The Neighbourhood,	1
+SAINt JHN,	1
+Nicky Jam,	1
+Curtis Waters,	1
+Queen,	1
+Farruko,	1
+Sam Smith,	1
+J Balvin,	3
+Justin Quiles,	1
+Lil Mosey,	1
+Vedo,	1
+Niack,	1
+Master KG,	1
+Arizona Zervas,	1
+Labrinth,	1
+Internet Money,	1
+Eminem,	1
+Kendrick Lamar,	1
+Pop Smoke,	7
+The Weeknd,	2
+James Arthur,	1
+Taylor Swift,	1
+Jack Harlow,	1
+Saweetie,	1
+Gunna,	1
+XXXTENTACION,	2
+Kygo,	1
+Trevor Daniel,	1
+StaySolidRocky,	1
+WhoHeem,	1
+Topic,	1
+Harry Nach,	1
+Ariana Grande,	2
+Ritt Momney,	1
+Ava Max,	1
+Jay Wheeler,	1
+Dua Lipa,	2
+Lil Peep,	1
+Jonas Esticado,	1
+Anuel AA,	1
+Hozier,	1
+Regard,	1
+Jerry Di,	1
+Jhay Cortez,	1
+Melanie Martinez,	1
+Future,	1
+Drake,	2
