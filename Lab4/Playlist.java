@@ -5,23 +5,20 @@
    assignment page.
 */
 
-import java.util.LinkedList;
-
 public class Playlist 
 {		  
    private Song first;
    
-   LinkedList<Song> Playlist;
-		  
    public  Playlist()
    {
       // Constructor
-	   Playlist = new LinkedList<>();
+	   first = null;
 	}
 		  
    public void addSong(Song s)
    {
-      Playlist.add(s);
+      this.first = s;
+      return;
 	}
    
    public Song listenToSong()
