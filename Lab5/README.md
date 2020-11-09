@@ -12,10 +12,11 @@
 ## OBJECTIVE
 The main goal of this lab was to read multiple csv (input) files obtained from 
 spotify. With these files, we were expected to make a binary search tree and report
-the song title in ascending order as wel as getting the average streaming numbers.
+the song title in ascending order as well as getting the average streaming numbers.
 I tried following and completing the outlines/templates provided by Dr.
-Chuang, and based off from there. ## Technologies
+Chuang, and based off from there. 
 
+## Technologies
 * Java SE 14
 
 ## Status
