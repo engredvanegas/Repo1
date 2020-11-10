@@ -58,13 +58,13 @@ public class SongPlayList
        }
    }
    
-   public void printTree(Song tempSong, PrintWriter out) 
+   public void printTree(Song tempSong, PrintWriter pw) 
    {		
 		if (tempSong != null) 
       {
-			printTree(tempSong.getLeftChild(),out);
-			out.println(tempSong);
-			printTree(tempSong.getRightChild(),out);
+			printTree(tempSong.getLeftChild(), pw);
+			pw.println(tempSong);
+			printTree(tempSong.getRightChild(), pw);
 			
 		}	
 	}
