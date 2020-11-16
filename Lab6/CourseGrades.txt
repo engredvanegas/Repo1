@@ -1,0 +1,17 @@
+___________________________
+		CISC. 3130 Grades
+___________________________
+Total:
+ Score: 94.26229508196722, Grade: A
+
+Pass Fail Midterm 1:
+ Score: 105.0, Grade: P
+
+Pass Fail Midterm 2:
+ Score: 60.0, Grade: P
+
+Practice Problems:
+ Score: 100.0, Grade: A
+
+Labs:
+ Score: 100.0, Grade: A
