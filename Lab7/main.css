@@ -1,5 +1,5 @@
 html { 
-       height: 100%;
+       height: 180%;
        font-size:100%; 
 }
 
@@ -13,7 +13,7 @@ body {
 }
 
 h1 {
-    color:#FF4B87;
+    color: #FF4B87;
     text-shadow: 6px 6px 12px #A0E6FF, 0 0 50px #FF4996, 0 0 12px #AAF0D1;
     font-size: 250%;
     text-align: center;
@@ -100,3 +100,11 @@ hr.IV {
     border-radius: 50%;
     display: inline-block;
 }
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
