@@ -1,0 +1,102 @@
+html { 
+       height: 100%;
+       font-size:100%; 
+}
+
+body {
+       width: 100%;
+       background-image: linear-gradient( 99.6deg,  rgba(112,128,152,1) 10.6%, 
+       rgba(242,227,234,1) 32.9%, rgba(234,202,213,1) 52.7%, rgba(220,227,239,1) 
+       72.8%, rgba(185,205,227,1) 81.1%, rgba(154,180,212,1) 102.4% );
+       font-family: Comic Sans MS;
+       font-size: 120%;
+}
+
+h1 {
+    color:#FF4B87;
+    text-shadow: 6px 6px 12px #A0E6FF, 0 0 50px #FF4996, 0 0 12px #AAF0D1;
+    font-size: 250%;
+    text-align: center;
+}
+
+h2 {
+    color: #3C39AA;
+    font-size: 110%;
+    text-align: center;
+}
+
+.intro {
+    color: #3C39AA;
+    font-size: 110%;
+    font-style: italic;
+    text-indent: 1.3em;
+}
+
+.center {
+    color: #3C39AA;
+    background: none;
+    font-size: 110%;
+    text-align: center;
+    list-style-position: inside;
+}
+
+ul {
+    list-style-type: none;
+}
+
+a:link {
+    color: #7134EB;
+    text-decoration: none;
+    font-size: 100%;
+}
+a:visited {
+    color: #FC74FD;
+    text-decoration: none;
+    font-size: 100%;
+}
+a:active {
+    color: #FF7F49;
+    text-decoration: none;
+    font-size: 100%;
+}
+a:hover  {
+    font-size: 120%;
+    background: #FEADB9;
+    font-family: Comic Sans MS;
+    color: #FFFFFF;
+    text-decoration: none;
+}
+
+div.a {
+  font-size: 150%;
+  position: absolute;
+  bottom: 50%;
+  right: 65%;
+} 
+
+hr.I {
+    border: 3.5px solid #9DABDD;
+    border-radius: 5px;
+}
+
+hr.II {
+    border: 3px dotted #3A52A6;
+}
+
+hr.III {
+    border: 3px dotted #7A77D1;
+    width: 50%;
+}
+
+hr.IV {
+    border: 3px dotted #D6E3F1;
+    width: 25%;
+}
+
+.dot {
+    height: 25px;
+    width: 25px;
+    background-color: #9DA6DE;
+    border-radius: 50%;
+    display: inline-block;
+}
